@@ -1,0 +1,40 @@
+section{
+  border: 2px dotted orange;
+  max-width: 1000px;
+}
+
+article{
+    width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav ul{
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  display: inline-block;
+}
+
+article > p{
+  width: 40%;
+  display: inline-block;
+}
+
+article{
+  overflow:auto;
+}

@@ -1,0 +1,83 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      font-family: sans-serif ;
+    }
+
+    body {
+
+      background-image: url("https://49.media.tumblr.com/366f4039601c70a30ebfefe9c9e0b328/tumblr_nvip3bXdjE1udbkb9o1_400.gif");
+      background-repeat: no-repeat;
+      background-size: cover;
+  //     width: 98%;
+//       height: 100%;
+    }
+
+    header {
+
+        text-align:center;
+        padding: 5px;
+        font-size:200% ;
+        display: block;
+        font-family: sans-serif;
+        color: white;
+        -webkit-text-stroke-width: 3px;
+        -webkit-text-stroke-color: black;
+
+    }
+    nav {
+      text-align:center;
+        float: right;
+        width:100%;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+        background-color: rgba(0,0,0,.8);
+    }
+    nav li {
+        float: left;
+        border: 1px solid #000000;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 12px 8px 0px;    }
+    a {
+        color: white ;
+    }
+    section {
+        width: 40%;
+        display: inline-block;
+        float: left;
+        font-size: 100%;
+        background-color: rgba(0, 0, 0, .6);
+
+    }
+    article{
+
+      font-family: sans-serif;
+      font-weight: bold;
+      color: #00FF0E;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
